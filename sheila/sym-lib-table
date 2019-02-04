@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Shielded_Wire)(type Legacy)(uri /Users/kevinward/projects/sheila/sheila/Shielded_Wire.lib)(options "")(descr ""))
+  (lib (name valves)(type Legacy)(uri /Users/kevinward/projects/sheila/sheila/valves.lib)(options "")(descr ""))
+)
